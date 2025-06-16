@@ -1,0 +1,116 @@
+{
+  "info": {
+    "_dirName": "info",
+    "_dirType": "sub",
+    "version": {
+      "_dirName": "version",
+      "_dirType": "int",
+      "_value": 10
+    },
+    "cloud": {
+      "_dirName": "cloud",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "town": {
+      "_dirName": "town",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "swim": {
+      "_dirName": "swim",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "mobRate": {
+      "_dirName": "mobRate",
+      "_dirType": "float",
+      "_value": "1.0"
+    },
+    "bgm": {
+      "_dirName": "bgm",
+      "_dirType": "string",
+      "_value": "Bgm23/LionHeart"
+    },
+    "mapMark": {
+      "_dirName": "mapMark",
+      "_dirType": "string",
+      "_value": "LionCastle"
+    },
+    "fly": {
+      "_dirName": "fly",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "noMapCmd": {
+      "_dirName": "noMapCmd",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "hideMinimap": {
+      "_dirName": "hideMinimap",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "onFirstUserEnter": {
+      "_dirName": "onFirstUserEnter",
+      "_dirType": "string",
+      "_value": ""
+    },
+    "VRBottom": {
+      "_dirName": "VRBottom",
+      "_dirType": "int",
+      "_value": 51
+    },
+    "VRLeft": {
+      "_dirName": "VRLeft",
+      "_dirType": "int",
+      "_value": 636
+    },
+    "VRRight": {
+      "_dirName": "VRRight",
+      "_dirType": "int",
+      "_value": 2150
+    },
+    "VRTop": {
+      "_dirName": "VRTop",
+      "_dirType": "int",
+      "_value": -750
+    },
+    "reactorShuffleName": {
+      "_dirName": "reactorShuffleName",
+      "_dirType": "string",
+      "_value": "box"
+    },
+    "reactorShuffle": {
+      "_dirName": "reactorShuffle",
+      "_dirType": "int",
+      "_value": 1
+    },
+    "link": {
+      "_dirName": "link",
+      "_dirType": "string",
+      "_value": "211070230"
+    },
+    "returnMap": {
+      "_dirName": "returnMap",
+      "_dirType": "int",
+      "_value": 211070232
+    },
+    "forcedReturn": {
+      "_dirName": "forcedReturn",
+      "_dirType": "int",
+      "_value": 211060800
+    },
+    "onUserEnter": {
+      "_dirName": "onUserEnter",
+      "_dirType": "string",
+      "_value": "VonLeonJailMessage"
+    },
+    "fieldLimit": {
+      "_dirName": "fieldLimit",
+      "_dirType": "int",
+      "_value": 271100
+    }
+  }
+}

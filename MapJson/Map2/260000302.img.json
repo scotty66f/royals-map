@@ -1,0 +1,6413 @@
+{
+  "info": {
+    "_dirName": "info",
+    "_dirType": "sub",
+    "version": {
+      "_dirName": "version",
+      "_dirType": "int",
+      "_value": 10
+    },
+    "cloud": {
+      "_dirName": "cloud",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "town": {
+      "_dirName": "town",
+      "_dirType": "int",
+      "_value": 1
+    },
+    "swim": {
+      "_dirName": "swim",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "returnMap": {
+      "_dirName": "returnMap",
+      "_dirType": "int",
+      "_value": 260000000
+    },
+    "forcedReturn": {
+      "_dirName": "forcedReturn",
+      "_dirType": "int",
+      "_value": 999999999
+    },
+    "mobRate": {
+      "_dirName": "mobRate",
+      "_dirType": "float",
+      "_value": "1.0"
+    },
+    "bgm": {
+      "_dirName": "bgm",
+      "_dirType": "string",
+      "_value": "Bgm14/Ariant"
+    },
+    "mapMark": {
+      "_dirName": "mapMark",
+      "_dirType": "string",
+      "_value": "Ariant"
+    },
+    "hideMinimap": {
+      "_dirName": "hideMinimap",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "fieldLimit": {
+      "_dirName": "fieldLimit",
+      "_dirType": "int",
+      "_value": 2
+    },
+    "VRTop": {
+      "_dirName": "VRTop",
+      "_dirType": "int",
+      "_value": -295
+    },
+    "VRLeft": {
+      "_dirName": "VRLeft",
+      "_dirType": "int",
+      "_value": -1288
+    },
+    "VRBottom": {
+      "_dirName": "VRBottom",
+      "_dirType": "int",
+      "_value": 387
+    },
+    "VRRight": {
+      "_dirName": "VRRight",
+      "_dirType": "int",
+      "_value": 903
+    }
+  },
+  "back": {
+    "_dirName": "back",
+    "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "ariantCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 7
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -250
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -19
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -100
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -100
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 592
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "1": {
+      "_dirName": "1",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "ariantCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 8
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 46
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -19
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -100
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -100
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 592
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    }
+  },
+  "life": {
+    "_dirName": "life",
+    "_dirType": "sub"
+  },
+  "reactor": {
+    "_dirName": "reactor",
+    "_dirType": "sub"
+  },
+  "0": {
+    "_dirName": "0",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "1": {
+    "_dirName": "1",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -790
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -590
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 1
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -390
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 2
+        }
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -190
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 3
+        }
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 3
+        }
+      },
+      "5": {
+        "_dirName": "5",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 209
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 6
+        }
+      },
+      "6": {
+        "_dirName": "6",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 409
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 4
+        }
+      },
+      "7": {
+        "_dirName": "7",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 609
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 5
+        }
+      },
+      "8": {
+        "_dirName": "8",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 805
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 5
+        }
+      },
+      "9": {
+        "_dirName": "9",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -790
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "10": {
+        "_dirName": "10",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -590
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 1
+        }
+      },
+      "11": {
+        "_dirName": "11",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -391
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 1
+        }
+      },
+      "12": {
+        "_dirName": "12",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -191
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 2
+        }
+      },
+      "13": {
+        "_dirName": "13",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 3
+        }
+      },
+      "14": {
+        "_dirName": "14",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 206
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 3
+        }
+      },
+      "15": {
+        "_dirName": "15",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 405
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 3
+        }
+      },
+      "16": {
+        "_dirName": "16",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 605
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 4
+        }
+      },
+      "17": {
+        "_dirName": "17",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 805
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 5
+        }
+      },
+      "18": {
+        "_dirName": "18",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -989
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "19": {
+        "_dirName": "19",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1188
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 360
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "20": {
+        "_dirName": "20",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1187
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "21": {
+        "_dirName": "21",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -988
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 378
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      }
+    }
+  },
+  "2": {
+    "_dirName": "2",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "1"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 54
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 127
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 13
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "1"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -550
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 125
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 20
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "0"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 642
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 66
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 21
+        }
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "0"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -845
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 68
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "5"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1046
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -208
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "5": {
+        "_dirName": "5",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "5"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1046
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -158
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "6": {
+        "_dirName": "6",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1045
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -66
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      }
+    }
+  },
+  "3": {
+    "_dirName": "3",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -710
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 257
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -351
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 257
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 8
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 257
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        }
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 367
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 257
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        }
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 725
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 257
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        }
+      },
+      "5": {
+        "_dirName": "5",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "5"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -564
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -207
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 22
+        }
+      },
+      "6": {
+        "_dirName": "6",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -563
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -116
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 22
+        }
+      },
+      "7": {
+        "_dirName": "7",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "5"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -166
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -207
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 24
+        }
+      },
+      "8": {
+        "_dirName": "8",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -165
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -116
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 24
+        }
+      },
+      "9": {
+        "_dirName": "9",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "5"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 233
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -207
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 23
+        }
+      },
+      "10": {
+        "_dirName": "10",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 234
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -116
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 23
+        }
+      },
+      "11": {
+        "_dirName": "11",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "5"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 634
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -207
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 25
+        }
+      },
+      "12": {
+        "_dirName": "12",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 635
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -116
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 25
+        }
+      },
+      "13": {
+        "_dirName": "13",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "3"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 635
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -155
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 25
+        }
+      },
+      "14": {
+        "_dirName": "14",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "4"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 636
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -66
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 25
+        }
+      },
+      "15": {
+        "_dirName": "15",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "3"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 233
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -152
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 23
+        }
+      },
+      "16": {
+        "_dirName": "16",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "4"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 236
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -65
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 23
+        }
+      },
+      "17": {
+        "_dirName": "17",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "3"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -167
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -153
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 24
+        }
+      },
+      "18": {
+        "_dirName": "18",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "4"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -163
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -65
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 24
+        }
+      },
+      "19": {
+        "_dirName": "19",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "3"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -564
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -154
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 22
+        }
+      },
+      "20": {
+        "_dirName": "20",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "4"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -561
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -64
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 22
+        }
+      },
+      "21": {
+        "_dirName": "21",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1069
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 257
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        }
+      },
+      "22": {
+        "_dirName": "22",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1198
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 257
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        }
+      },
+      "23": {
+        "_dirName": "23",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 725
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 301
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 8
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "24": {
+        "_dirName": "24",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -710
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 301
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "25": {
+        "_dirName": "25",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -351
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 301
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "26": {
+        "_dirName": "26",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 8
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 301
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "27": {
+        "_dirName": "27",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 367
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 301
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "28": {
+        "_dirName": "28",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1069
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 301
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "29": {
+        "_dirName": "29",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1198
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 301
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "30": {
+        "_dirName": "30",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 725
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -346
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "31": {
+        "_dirName": "31",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -710
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -346
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "32": {
+        "_dirName": "32",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -351
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -346
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "33": {
+        "_dirName": "33",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 8
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -346
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "34": {
+        "_dirName": "34",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 367
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -346
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "35": {
+        "_dirName": "35",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1069
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -346
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      },
+      "36": {
+        "_dirName": "36",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1198
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -346
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        }
+      }
+    }
+  },
+  "4": {
+    "_dirName": "4",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 619
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -20
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 9
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 219
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -20
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 10
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -179
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -20
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 11
+        }
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -577
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -20
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 12
+        }
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -976
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -19
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 8
+        }
+      }
+    }
+  },
+  "5": {
+    "_dirName": "5",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -244
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 14
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -192
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -265
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 28
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -392
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -244
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 15
+        }
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -591
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -265
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 26
+        }
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -791
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -244
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 16
+        }
+      },
+      "5": {
+        "_dirName": "5",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 207
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -265
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 29
+        }
+      },
+      "6": {
+        "_dirName": "6",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 406
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -244
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 17
+        }
+      },
+      "7": {
+        "_dirName": "7",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 606
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -265
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 27
+        }
+      },
+      "8": {
+        "_dirName": "8",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 805
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -244
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 18
+        }
+      },
+      "9": {
+        "_dirName": "9",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 19
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -126
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 14
+        }
+      },
+      "10": {
+        "_dirName": "10",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 19
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 6
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 14
+        }
+      },
+      "11": {
+        "_dirName": "11",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 19
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 105
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 14
+        }
+      },
+      "12": {
+        "_dirName": "12",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 418
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -126
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 17
+        }
+      },
+      "13": {
+        "_dirName": "13",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 418
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 6
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 17
+        }
+      },
+      "14": {
+        "_dirName": "14",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 418
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 105
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 17
+        }
+      },
+      "15": {
+        "_dirName": "15",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 816
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -126
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 18
+        }
+      },
+      "16": {
+        "_dirName": "16",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 816
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 6
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 18
+        }
+      },
+      "17": {
+        "_dirName": "17",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 816
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 105
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 18
+        }
+      },
+      "18": {
+        "_dirName": "18",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -380
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -126
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 15
+        }
+      },
+      "19": {
+        "_dirName": "19",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -380
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 6
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 15
+        }
+      },
+      "20": {
+        "_dirName": "20",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -380
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 105
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 15
+        }
+      },
+      "21": {
+        "_dirName": "21",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -779
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -126
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 16
+        }
+      },
+      "22": {
+        "_dirName": "22",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -779
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 6
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 16
+        }
+      },
+      "23": {
+        "_dirName": "23",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -779
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 105
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 16
+        }
+      },
+      "24": {
+        "_dirName": "24",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "8"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -780
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 172
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 16
+        }
+      },
+      "25": {
+        "_dirName": "25",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "8"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -380
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 172
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 15
+        }
+      },
+      "26": {
+        "_dirName": "26",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "8"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 19
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 172
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 14
+        }
+      },
+      "27": {
+        "_dirName": "27",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "8"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 418
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 172
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 17
+        }
+      },
+      "28": {
+        "_dirName": "28",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "8"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 817
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 172
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 18
+        }
+      },
+      "29": {
+        "_dirName": "29",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -990
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -265
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 19
+        }
+      },
+      "30": {
+        "_dirName": "30",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1189
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -244
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 11
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 19
+        }
+      },
+      "31": {
+        "_dirName": "31",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1179
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -126
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 19
+        }
+      },
+      "32": {
+        "_dirName": "32",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1179
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 6
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 19
+        }
+      },
+      "33": {
+        "_dirName": "33",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide1"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1179
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 105
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 19
+        }
+      },
+      "34": {
+        "_dirName": "34",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "acc8"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "castle"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "inSide2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "8"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -1180
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 172
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 19
+        }
+      }
+    }
+  },
+  "6": {
+    "_dirName": "6",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "7": {
+    "_dirName": "7",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "foothold": {
+    "_dirName": "foothold",
+    "_dirType": "sub",
+    "3": {
+      "_dirName": "3",
+      "_dirType": "sub",
+      "7": {
+        "_dirName": "7",
+        "_dirType": "sub",
+        "1": {
+          "_dirName": "1",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": -890
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": -530
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 6
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 2
+          }
+        },
+        "2": {
+          "_dirName": "2",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": -530
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": -171
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 1
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 3
+          }
+        },
+        "3": {
+          "_dirName": "3",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": -171
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 188
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 2
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 4
+          }
+        },
+        "4": {
+          "_dirName": "4",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": 188
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 547
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 3
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 5
+          }
+        },
+        "5": {
+          "_dirName": "5",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": 547
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 905
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 4
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 0
+          }
+        },
+        "6": {
+          "_dirName": "6",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": -1249
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": -890
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 7
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 1
+          }
+        },
+        "7": {
+          "_dirName": "7",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": -1288
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": -1249
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 208
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 0
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 6
+          }
+        }
+      }
+    }
+  },
+  "ladderRope": {
+    "_dirName": "ladderRope",
+    "_dirType": "sub"
+  },
+  "miniMap": {
+    "_dirName": "miniMap",
+    "_dirType": "sub",
+    "canvas": {
+      "_dirName": "canvas",
+      "_dirType": "canvas",
+      "_width": 143,
+      "_height": 52
+    },
+    "width": {
+      "_dirName": "width",
+      "_dirType": "int",
+      "_value": 2289
+    },
+    "height": {
+      "_dirName": "height",
+      "_dirType": "int",
+      "_value": 838
+    },
+    "centerX": {
+      "_dirName": "centerX",
+      "_dirType": "int",
+      "_value": 1336
+    },
+    "centerY": {
+      "_dirName": "centerY",
+      "_dirType": "int",
+      "_value": 447
+    },
+    "mag": {
+      "_dirName": "mag",
+      "_dirType": "int",
+      "_value": 4
+    }
+  },
+  "portal": {
+    "_dirName": "portal",
+    "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "sp"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -555
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 154
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 999999999
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": ""
+      }
+    },
+    "1": {
+      "_dirName": "1",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "center00"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -478
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 204
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 260000302
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": "center01"
+      }
+    },
+    "2": {
+      "_dirName": "2",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "center01"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -119
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 207
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 260000302
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": "center03"
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "hideTooltip": {
+        "_dirName": "hideTooltip",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "delay": {
+        "_dirName": "delay",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "3": {
+      "_dirName": "3",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "center02"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 401
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 208
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 260000302
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": "center05"
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "hideTooltip": {
+        "_dirName": "hideTooltip",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "delay": {
+        "_dirName": "delay",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "4": {
+      "_dirName": "4",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "center03"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 161
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 205
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 999999999
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "hideTooltip": {
+        "_dirName": "hideTooltip",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "delay": {
+        "_dirName": "delay",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "5": {
+      "_dirName": "5",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "center04"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 12
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 204
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 260000302
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": "center02"
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "hideTooltip": {
+        "_dirName": "hideTooltip",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "delay": {
+        "_dirName": "delay",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "6": {
+      "_dirName": "6",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "center05"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 757
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 206
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 260000302
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": "center00"
+      }
+    },
+    "7": {
+      "_dirName": "7",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "out00"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 2
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -863
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 205
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 260000301
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": "in00"
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "hideTooltip": {
+        "_dirName": "hideTooltip",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "delay": {
+        "_dirName": "delay",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "8": {
+      "_dirName": "8",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "in00"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 2
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 631
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 205
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 260000303
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": "out00"
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "hideTooltip": {
+        "_dirName": "hideTooltip",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "delay": {
+        "_dirName": "delay",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "9": {
+      "_dirName": "9",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "hiden0"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 8
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -1045
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 206
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 999999999
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": "skyrom"
+      }
+    },
+    "10": {
+      "_dirName": "10",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "ring02"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 9
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -257
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 156
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 999999999
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "delay": {
+        "_dirName": "delay",
+        "_dirType": "int",
+        "_value": 200
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": "ariant_queens"
+      }
+    },
+    "11": {
+      "_dirName": "11",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "ring03"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 9
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 292
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 159
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 999999999
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "delay": {
+        "_dirName": "delay",
+        "_dirType": "int",
+        "_value": 200
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": "ariant_queens"
+      }
+    },
+    "12": {
+      "_dirName": "12",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "ring04"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 9
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 512
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 157
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 999999999
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "delay": {
+        "_dirName": "delay",
+        "_dirType": "int",
+        "_value": 200
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": "ariant_queens"
+      }
+    }
+  }
+}

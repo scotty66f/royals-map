@@ -1,0 +1,2764 @@
+{
+  "0": {
+    "_dirName": "0",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "rampart2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1015
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -7
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 2
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "rampart2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "11"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1123
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -47
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 1
+        }
+      },
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "rampart2"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "10"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 2148
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -31
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 3
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 0
+        }
+      }
+    }
+  },
+  "1": {
+    "_dirName": "1",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "top"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1107
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -347
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 4
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 2
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "top"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1686
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -347
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 4
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 1
+        }
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "top"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1094
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -656
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 5
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 3
+        }
+      },
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "top"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1673
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -656
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 10
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 5
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "top"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "8"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 2048
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -202
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 6
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 4
+        }
+      },
+      "5": {
+        "_dirName": "5",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "foot"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "1"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1453
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -28
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 1
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 5
+        }
+      }
+    }
+  },
+  "2": {
+    "_dirName": "2",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub",
+      "tS": {
+        "_dirName": "tS",
+        "_dirType": "string",
+        "_value": "lionCastle"
+      }
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "garden"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1723
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -200
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "garden"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "13"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1472
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -200
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      }
+    }
+  },
+  "3": {
+    "_dirName": "3",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "trap"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "mobHunt"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "spear"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1455
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -132
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "name": {
+          "_dirName": "name",
+          "_dirType": "string",
+          "_value": "trap1"
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "trap"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1522
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -132
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "mobHunt"
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "name": {
+          "_dirName": "name",
+          "_dirType": "string",
+          "_value": "trap2"
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "spear"
+        }
+      }
+    }
+  },
+  "4": {
+    "_dirName": "4",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "5": {
+    "_dirName": "5",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "foot"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "3"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 899
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -43
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 2
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "foot"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "1"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1438
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -43
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 2
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 1
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "dungeon4"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "redLion"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "foot"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "1"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1977
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -43
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 2
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 2
+        }
+      }
+    }
+  },
+  "6": {
+    "_dirName": "6",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "7": {
+    "_dirName": "7",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "back": {
+    "_dirName": "back",
+    "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "1": {
+      "_dirName": "1",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 69
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -398
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -15
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -45
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "2": {
+      "_dirName": "2",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 2
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -82
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -138
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -25
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -50
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "3": {
+      "_dirName": "3",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -763
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -237
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -25
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -55
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 5000
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "4": {
+      "_dirName": "4",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -734
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -131
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -2
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -55
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "5": {
+      "_dirName": "5",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 5
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 74
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -228
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -2
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -55
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "6": {
+      "_dirName": "6",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 6
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 83
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -225
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -30
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -60
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "7": {
+      "_dirName": "7",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 7
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -743
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -214
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -35
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -65
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "8": {
+      "_dirName": "8",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 8
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -147
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -248
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -4
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -65
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1500
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "9": {
+      "_dirName": "9",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 9
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 353
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -258
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -4
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -65
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1500
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "10": {
+      "_dirName": "10",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 10
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 853
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -259
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -4
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -65
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1500
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "11": {
+      "_dirName": "11",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 11
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 188
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -250
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -40
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -70
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "12": {
+      "_dirName": "12",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 12
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -141
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -209
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -60
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -90
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1185
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "13": {
+      "_dirName": "13",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 13
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 254
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -159
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -60
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -90
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1185
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "14": {
+      "_dirName": "14",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 14
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 649
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -173
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -60
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -90
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1185
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "15": {
+      "_dirName": "15",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "blizzardCastle"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    }
+  },
+  "foothold": {
+    "_dirName": "foothold",
+    "_dirType": "sub",
+    "5": {
+      "_dirName": "5",
+      "_dirType": "sub",
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "1": {
+          "_dirName": "1",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": 626
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": -139
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 1173
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": -139
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 0
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 2
+          },
+          "piece": {
+            "_dirName": "piece",
+            "_dirType": "int",
+            "_value": 0
+          }
+        },
+        "2": {
+          "_dirName": "2",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": 1173
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": -139
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 1711
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": -139
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 1
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 3
+          },
+          "piece": {
+            "_dirName": "piece",
+            "_dirType": "int",
+            "_value": 1
+          }
+        },
+        "3": {
+          "_dirName": "3",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": 1711
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": -139
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 2142
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": -139
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 2
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 0
+          },
+          "piece": {
+            "_dirName": "piece",
+            "_dirType": "int",
+            "_value": 2
+          }
+        }
+      }
+    }
+  },
+  "info": {
+    "_dirName": "info",
+    "_dirType": "sub",
+    "version": {
+      "_dirName": "version",
+      "_dirType": "int",
+      "_value": 10
+    },
+    "cloud": {
+      "_dirName": "cloud",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "town": {
+      "_dirName": "town",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "swim": {
+      "_dirName": "swim",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "mobRate": {
+      "_dirName": "mobRate",
+      "_dirType": "float",
+      "_value": "1.0"
+    },
+    "bgm": {
+      "_dirName": "bgm",
+      "_dirType": "string",
+      "_value": "Bgm23/LionHeart"
+    },
+    "mapMark": {
+      "_dirName": "mapMark",
+      "_dirType": "string",
+      "_value": "LionCastle"
+    },
+    "fly": {
+      "_dirName": "fly",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "noMapCmd": {
+      "_dirName": "noMapCmd",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "hideMinimap": {
+      "_dirName": "hideMinimap",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "VRTop": {
+      "_dirName": "VRTop",
+      "_dirType": "int",
+      "_value": -750
+    },
+    "VRLeft": {
+      "_dirName": "VRLeft",
+      "_dirType": "int",
+      "_value": 636
+    },
+    "VRBottom": {
+      "_dirName": "VRBottom",
+      "_dirType": "int",
+      "_value": 51
+    },
+    "VRRight": {
+      "_dirName": "VRRight",
+      "_dirType": "int",
+      "_value": 2150
+    },
+    "onFirstUserEnter": {
+      "_dirName": "onFirstUserEnter",
+      "_dirType": "string",
+      "_value": ""
+    },
+    "reactorShuffle": {
+      "_dirName": "reactorShuffle",
+      "_dirType": "int",
+      "_value": 1
+    },
+    "reactorShuffleName": {
+      "_dirName": "reactorShuffleName",
+      "_dirType": "string",
+      "_value": "box"
+    },
+    "returnMap": {
+      "_dirName": "returnMap",
+      "_dirType": "int",
+      "_value": 211070230
+    },
+    "forcedReturn": {
+      "_dirName": "forcedReturn",
+      "_dirType": "int",
+      "_value": 211060800
+    },
+    "onUserEnter": {
+      "_dirName": "onUserEnter",
+      "_dirType": "string",
+      "_value": "VonLeonJailMessage"
+    },
+    "fieldLimit": {
+      "_dirName": "fieldLimit",
+      "_dirType": "int",
+      "_value": 271100
+    }
+  },
+  "ladderRope": {
+    "_dirName": "ladderRope",
+    "_dirType": "sub"
+  },
+  "life": {
+    "_dirName": "life",
+    "_dirType": "sub"
+  },
+  "miniMap": {
+    "_dirName": "miniMap",
+    "_dirType": "sub",
+    "canvas": {
+      "_dirName": "canvas",
+      "_dirType": "canvas",
+      "_width": 174,
+      "_height": 65
+    },
+    "width": {
+      "_dirName": "width",
+      "_dirType": "int",
+      "_value": 2792
+    },
+    "height": {
+      "_dirName": "height",
+      "_dirType": "int",
+      "_value": 1044
+    },
+    "centerX": {
+      "_dirName": "centerX",
+      "_dirType": "int",
+      "_value": -581
+    },
+    "centerY": {
+      "_dirName": "centerY",
+      "_dirType": "int",
+      "_value": 906
+    },
+    "mag": {
+      "_dirName": "mag",
+      "_dirType": "int",
+      "_value": 4
+    }
+  },
+  "portal": {
+    "_dirName": "portal",
+    "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "sp"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 1285
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -282
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 999999999
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "horizontalImpact": {
+        "_dirName": "horizontalImpact",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "1": {
+      "_dirName": "1",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "out00"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 7
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 716
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -136
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 999999999
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "horizontalImpact": {
+        "_dirName": "horizontalImpact",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "script": {
+        "_dirName": "script",
+        "_dirType": "string",
+        "_value": "outVonLeonPrison"
+      }
+    }
+  },
+  "reactor": {
+    "_dirName": "reactor",
+    "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "id": {
+        "_dirName": "id",
+        "_dirType": "string",
+        "_value": "2112024"
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 939
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -166
+      },
+      "reactorTime": {
+        "_dirName": "reactorTime",
+        "_dirType": "int",
+        "_value": -1
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "name": {
+        "_dirName": "name",
+        "_dirType": "string",
+        "_value": "box"
+      }
+    },
+    "1": {
+      "_dirName": "1",
+      "_dirType": "sub",
+      "id": {
+        "_dirName": "id",
+        "_dirType": "string",
+        "_value": "2112023"
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 1792
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -167
+      },
+      "reactorTime": {
+        "_dirName": "reactorTime",
+        "_dirType": "int",
+        "_value": -1
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "name": {
+        "_dirName": "name",
+        "_dirType": "string",
+        "_value": "box"
+      }
+    },
+    "2": {
+      "_dirName": "2",
+      "_dirType": "sub",
+      "id": {
+        "_dirName": "id",
+        "_dirType": "string",
+        "_value": "2008007"
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 1257
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -234
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "name": {
+        "_dirName": "name",
+        "_dirType": "string",
+        "_value": "lever1"
+      },
+      "reactorTime": {
+        "_dirName": "reactorTime",
+        "_dirType": "int",
+        "_value": -1
+      }
+    }
+  },
+  "noSkill": {
+    "_dirName": "noSkill",
+    "_dirType": "sub",
+    "skill": {
+      "_dirName": "skill",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "int",
+        "_value": 1221011
+      }
+    }
+  }
+}

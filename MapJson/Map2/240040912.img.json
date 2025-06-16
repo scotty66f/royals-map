@@ -1,0 +1,135 @@
+{
+  "info": {
+    "_dirName": "info",
+    "_dirType": "sub",
+    "version": {
+      "_dirName": "version",
+      "_dirType": "int",
+      "_value": 10
+    },
+    "cloud": {
+      "_dirName": "cloud",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "town": {
+      "_dirName": "town",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "swim": {
+      "_dirName": "swim",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "returnMap": {
+      "_dirName": "returnMap",
+      "_dirType": "int",
+      "_value": 240000000
+    },
+    "forcedReturn": {
+      "_dirName": "forcedReturn",
+      "_dirType": "int",
+      "_value": 240040520
+    },
+    "mobRate": {
+      "_dirName": "mobRate",
+      "_dirType": "float",
+      "_value": "1.9"
+    },
+    "bgm": {
+      "_dirName": "bgm",
+      "_dirType": "string",
+      "_value": "Bgm14/DragonNest"
+    },
+    "mapMark": {
+      "_dirName": "mapMark",
+      "_dirType": "string",
+      "_value": "Leafre"
+    },
+    "hideMinimap": {
+      "_dirName": "hideMinimap",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "fieldLimit": {
+      "_dirName": "fieldLimit",
+      "_dirType": "int",
+      "_value": 262216
+    },
+    "VRTop": {
+      "_dirName": "VRTop",
+      "_dirType": "int",
+      "_value": -310
+    },
+    "VRLeft": {
+      "_dirName": "VRLeft",
+      "_dirType": "int",
+      "_value": -1199
+    },
+    "VRBottom": {
+      "_dirName": "VRBottom",
+      "_dirType": "int",
+      "_value": 1710
+    },
+    "VRRight": {
+      "_dirName": "VRRight",
+      "_dirType": "int",
+      "_value": 398
+    },
+    "lvLimit": {
+      "_dirName": "lvLimit",
+      "_dirType": "int",
+      "_value": 15
+    },
+    "fieldType": {
+      "_dirName": "fieldType",
+      "_dirType": "int",
+      "_value": 6
+    },
+    "timeLimit": {
+      "_dirName": "timeLimit",
+      "_dirType": "int",
+      "_value": 7200
+    },
+    "autoLieDetector": {
+      "_dirName": "autoLieDetector",
+      "_dirType": "sub",
+      "startHour": {
+        "_dirName": "startHour",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "endHour": {
+        "_dirName": "endHour",
+        "_dirType": "int",
+        "_value": 24
+      },
+      "interval": {
+        "_dirName": "interval",
+        "_dirType": "int",
+        "_value": 100
+      },
+      "prop": {
+        "_dirName": "prop",
+        "_dirType": "int",
+        "_value": 80
+      }
+    },
+    "miniMapOnOff": {
+      "_dirName": "miniMapOnOff",
+      "_dirType": "int",
+      "_value": 1
+    },
+    "onFirstUserEnter": {
+      "_dirName": "onFirstUserEnter",
+      "_dirType": "string",
+      "_value": ""
+    },
+    "link": {
+      "_dirName": "link",
+      "_dirType": "string",
+      "_value": "240040900"
+    }
+  }
+}

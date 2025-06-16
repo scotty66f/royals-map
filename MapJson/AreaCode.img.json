@@ -1,0 +1,162 @@
+{
+  "00": {
+    "_dirName": "00",
+    "_dirType": "int",
+    "_value": 0
+  },
+  "10": {
+    "_dirName": "10",
+    "_dirType": "int",
+    "_value": 1
+  },
+  "11": {
+    "_dirName": "11",
+    "_dirType": "int",
+    "_value": 2
+  },
+  "12": {
+    "_dirName": "12",
+    "_dirType": "int",
+    "_value": 1
+  },
+  "13": {
+    "_dirName": "13",
+    "_dirType": "int",
+    "_value": 1
+  },
+  "14": {
+    "_dirName": "14",
+    "_dirType": "int",
+    "_value": 1
+  },
+  "19": {
+    "_dirName": "19",
+    "_dirType": "int",
+    "_value": 1
+  },
+  "20": {
+    "_dirName": "20",
+    "_dirType": "int",
+    "_value": 3
+  },
+  "21": {
+    "_dirName": "21",
+    "_dirType": "int",
+    "_value": 3
+  },
+  "22": {
+    "_dirName": "22",
+    "_dirType": "int",
+    "_value": 4
+  },
+  "23": {
+    "_dirName": "23",
+    "_dirType": "int",
+    "_value": 5
+  },
+  "24": {
+    "_dirName": "24",
+    "_dirType": "int",
+    "_value": 6
+  },
+  "25": {
+    "_dirName": "25",
+    "_dirType": "int",
+    "_value": 7
+  },
+  "26": {
+    "_dirName": "26",
+    "_dirType": "int",
+    "_value": 8
+  },
+  "27": {
+    "_dirName": "27",
+    "_dirType": "int",
+    "_value": 10
+  },
+  "28": {
+    "_dirName": "28",
+    "_dirType": "int",
+    "_value": 3
+  },
+  "30": {
+    "_dirName": "30",
+    "_dirType": "int",
+    "_value": 9
+  },
+  "39": {
+    "_dirName": "39",
+    "_dirType": "int",
+    "_value": 30
+  },
+  "50": {
+    "_dirName": "50",
+    "_dirType": "int",
+    "_value": 50
+  },
+  "54": {
+    "_dirName": "54",
+    "_dirType": "int",
+    "_value": 54
+  },
+  "60": {
+    "_dirName": "60",
+    "_dirType": "int",
+    "_value": 60
+  },
+  "61": {
+    "_dirName": "61",
+    "_dirType": "int",
+    "_value": 60
+  },
+  "68": {
+    "_dirName": "68",
+    "_dirType": "int",
+    "_value": 68
+  },
+  "70": {
+    "_dirName": "70",
+    "_dirType": "int",
+    "_value": 70
+  },
+  "74": {
+    "_dirName": "74",
+    "_dirType": "int",
+    "_value": 74
+  },
+  "80": {
+    "_dirName": "80",
+    "_dirType": "int",
+    "_value": 80
+  },
+  "90": {
+    "_dirName": "90",
+    "_dirType": "int",
+    "_value": 90
+  },
+  "91": {
+    "_dirName": "91",
+    "_dirType": "int",
+    "_value": 90
+  },
+  "92": {
+    "_dirName": "92",
+    "_dirType": "int",
+    "_value": 90
+  },
+  "99": {
+    "_dirName": "99",
+    "_dirType": "int",
+    "_value": 90
+  },
+  "55": {
+    "_dirName": "55",
+    "_dirType": "int",
+    "_value": 55
+  },
+  "67": {
+    "_dirName": "67",
+    "_dirType": "int",
+    "_value": 68
+  }
+}

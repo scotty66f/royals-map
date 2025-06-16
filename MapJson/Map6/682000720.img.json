@@ -1,0 +1,3637 @@
+{
+  "user": {
+    "_dirName": "user",
+    "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "cond": {
+        "_dirName": "cond",
+        "_dirType": "sub",
+        "jobCategory": {
+          "_dirName": "jobCategory",
+          "_dirType": "int",
+          "_value": 5
+        }
+      },
+      "look": {
+        "_dirName": "look",
+        "_dirType": "sub",
+        "cap": {
+          "_dirName": "cap",
+          "_dirType": "int",
+          "_value": 1000004
+        },
+        "faceAcc": {
+          "_dirName": "faceAcc",
+          "_dirType": "int",
+          "_value": 1012048
+        },
+        "clothes": {
+          "_dirName": "clothes",
+          "_dirType": "int",
+          "_value": 1050154
+        },
+        "cape": {
+          "_dirName": "cape",
+          "_dirType": "int",
+          "_value": 1102068
+        },
+        "weapon": {
+          "_dirName": "weapon",
+          "_dirType": "int",
+          "_value": 1702174
+        },
+        "earAcc": {
+          "_dirName": "earAcc",
+          "_dirType": "int",
+          "_value": 1032024
+        },
+        "shield": {
+          "_dirName": "shield",
+          "_dirType": "int",
+          "_value": 1092056
+        },
+        "shoes": {
+          "_dirName": "shoes",
+          "_dirType": "int",
+          "_value": 1072111
+        },
+        "gloves": {
+          "_dirName": "gloves",
+          "_dirType": "int",
+          "_value": 1082165
+        }
+      }
+    },
+    "1": {
+      "_dirName": "1",
+      "_dirType": "sub",
+      "cond": {
+        "_dirName": "cond",
+        "_dirType": "sub",
+        "jobCategory": {
+          "_dirName": "jobCategory",
+          "_dirType": "int",
+          "_value": 1
+        }
+      },
+      "look": {
+        "_dirName": "look",
+        "_dirType": "sub",
+        "cap": {
+          "_dirName": "cap",
+          "_dirType": "int",
+          "_value": 1002525
+        },
+        "faceAcc": {
+          "_dirName": "faceAcc",
+          "_dirType": "int",
+          "_value": 1012049
+        },
+        "clothes": {
+          "_dirName": "clothes",
+          "_dirType": "int",
+          "_value": 1052067
+        },
+        "cape": {
+          "_dirName": "cape",
+          "_dirType": "int",
+          "_value": 1102098
+        },
+        "weapon": {
+          "_dirName": "weapon",
+          "_dirType": "int",
+          "_value": 1702174
+        },
+        "earAcc": {
+          "_dirName": "earAcc",
+          "_dirType": "int",
+          "_value": 1032024
+        },
+        "shield": {
+          "_dirName": "shield",
+          "_dirType": "int",
+          "_value": 1092056
+        },
+        "shoes": {
+          "_dirName": "shoes",
+          "_dirType": "int",
+          "_value": 1072153
+        },
+        "gloves": {
+          "_dirName": "gloves",
+          "_dirType": "int",
+          "_value": 1082102
+        }
+      }
+    },
+    "2": {
+      "_dirName": "2",
+      "_dirType": "sub",
+      "cond": {
+        "_dirName": "cond",
+        "_dirType": "sub",
+        "jobCategory": {
+          "_dirName": "jobCategory",
+          "_dirType": "int",
+          "_value": 2
+        }
+      },
+      "look": {
+        "_dirName": "look",
+        "_dirType": "sub",
+        "cap": {
+          "_dirName": "cap",
+          "_dirType": "int",
+          "_value": 1002304
+        },
+        "clothes": {
+          "_dirName": "clothes",
+          "_dirType": "int",
+          "_value": 1052330
+        },
+        "gloves": {
+          "_dirName": "gloves",
+          "_dirType": "int",
+          "_value": 1082102
+        },
+        "cape": {
+          "_dirName": "cape",
+          "_dirType": "int",
+          "_value": 1102075
+        },
+        "weapon": {
+          "_dirName": "weapon",
+          "_dirType": "int",
+          "_value": 1702174
+        },
+        "earAcc": {
+          "_dirName": "earAcc",
+          "_dirType": "int",
+          "_value": 1032024
+        },
+        "shield": {
+          "_dirName": "shield",
+          "_dirType": "int",
+          "_value": 1092056
+        },
+        "faceAcc": {
+          "_dirName": "faceAcc",
+          "_dirType": "int",
+          "_value": 1012057
+        },
+        "shoes": {
+          "_dirName": "shoes",
+          "_dirType": "int",
+          "_value": 1072111
+        }
+      }
+    },
+    "3": {
+      "_dirName": "3",
+      "_dirType": "sub",
+      "cond": {
+        "_dirName": "cond",
+        "_dirType": "sub",
+        "jobCategory": {
+          "_dirName": "jobCategory",
+          "_dirType": "int",
+          "_value": 3
+        }
+      },
+      "look": {
+        "_dirName": "look",
+        "_dirType": "sub",
+        "cap": {
+          "_dirName": "cap",
+          "_dirType": "int",
+          "_value": 1002367
+        },
+        "eyeAcc": {
+          "_dirName": "eyeAcc",
+          "_dirType": "int",
+          "_value": 1022027
+        },
+        "clothes": {
+          "_dirName": "clothes",
+          "_dirType": "int",
+          "_value": 1050057
+        },
+        "cape": {
+          "_dirName": "cape",
+          "_dirType": "int",
+          "_value": 1102058
+        },
+        "weapon": {
+          "_dirName": "weapon",
+          "_dirType": "int",
+          "_value": 1702174
+        },
+        "earAcc": {
+          "_dirName": "earAcc",
+          "_dirType": "int",
+          "_value": 1032024
+        },
+        "shield": {
+          "_dirName": "shield",
+          "_dirType": "int",
+          "_value": 1092056
+        },
+        "faceAcc": {
+          "_dirName": "faceAcc",
+          "_dirType": "int",
+          "_value": 1012057
+        },
+        "shoes": {
+          "_dirName": "shoes",
+          "_dirType": "int",
+          "_value": 1072111
+        },
+        "gloves": {
+          "_dirName": "gloves",
+          "_dirType": "int",
+          "_value": 1082102
+        }
+      }
+    },
+    "4": {
+      "_dirName": "4",
+      "_dirType": "sub",
+      "cond": {
+        "_dirName": "cond",
+        "_dirType": "sub",
+        "jobCategory": {
+          "_dirName": "jobCategory",
+          "_dirType": "int",
+          "_value": 4
+        }
+      },
+      "look": {
+        "_dirName": "look",
+        "_dirType": "sub",
+        "cap": {
+          "_dirName": "cap",
+          "_dirType": "int",
+          "_value": 1002335
+        },
+        "clothes": {
+          "_dirName": "clothes",
+          "_dirType": "int",
+          "_value": 1050057
+        },
+        "shoes": {
+          "_dirName": "shoes",
+          "_dirType": "int",
+          "_value": 1070003
+        },
+        "gloves": {
+          "_dirName": "gloves",
+          "_dirType": "int",
+          "_value": 1082079
+        },
+        "cape": {
+          "_dirName": "cape",
+          "_dirType": "int",
+          "_value": 1102066
+        },
+        "weapon": {
+          "_dirName": "weapon",
+          "_dirType": "int",
+          "_value": 1702174
+        },
+        "earAcc": {
+          "_dirName": "earAcc",
+          "_dirType": "int",
+          "_value": 1032024
+        },
+        "shield": {
+          "_dirName": "shield",
+          "_dirType": "int",
+          "_value": 1092056
+        },
+        "faceAcc": {
+          "_dirName": "faceAcc",
+          "_dirType": "int",
+          "_value": 1012057
+        }
+      }
+    }
+  },
+  "0": {
+    "_dirName": "0",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "1": {
+    "_dirName": "1",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub",
+      "tS": {
+        "_dirName": "tS",
+        "_dirType": "string",
+        "_value": "halloween3"
+      },
+      "tSMag": {
+        "_dirName": "tSMag",
+        "_dirType": "int",
+        "_value": 1
+      }
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 448
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 275
+        },
+        "u": {
+          "_dirName": "u",
+          "_dirType": "string",
+          "_value": "edU"
+        },
+        "no": {
+          "_dirName": "no",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 448
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 275
+        },
+        "u": {
+          "_dirName": "u",
+          "_dirType": "string",
+          "_value": "edD"
+        },
+        "no": {
+          "_dirName": "no",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 448
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 275
+        },
+        "u": {
+          "_dirName": "u",
+          "_dirType": "string",
+          "_value": "enH0"
+        },
+        "no": {
+          "_dirName": "no",
+          "_dirType": "int",
+          "_value": 1
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "sub",
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 448
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 275
+        },
+        "u": {
+          "_dirName": "u",
+          "_dirType": "string",
+          "_value": "enH1"
+        },
+        "no": {
+          "_dirName": "no",
+          "_dirType": "int",
+          "_value": 2
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "sub",
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 538
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 275
+        },
+        "u": {
+          "_dirName": "u",
+          "_dirType": "string",
+          "_value": "edU"
+        },
+        "no": {
+          "_dirName": "no",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "5": {
+        "_dirName": "5",
+        "_dirType": "sub",
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 538
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 275
+        },
+        "u": {
+          "_dirName": "u",
+          "_dirType": "string",
+          "_value": "edD"
+        },
+        "no": {
+          "_dirName": "no",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        }
+      }
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "2": {
+    "_dirName": "2",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "3": {
+    "_dirName": "3",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "0"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -154
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -179
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 8
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "1"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 250
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -178
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 8
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 1
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -226
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 303
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 5
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 2
+        }
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "3"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 96
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 303
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 6
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 3
+        }
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "4"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 307
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 342
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 7
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 4
+        }
+      },
+      "5": {
+        "_dirName": "5",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "5"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 535
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 303
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 3
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 5
+        }
+      },
+      "6": {
+        "_dirName": "6",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "6"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 753
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 277
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 4
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 6
+        }
+      },
+      "7": {
+        "_dirName": "7",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "7"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1202
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 261
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 4
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 7
+        }
+      },
+      "8": {
+        "_dirName": "8",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "8"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1202
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -222
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 8
+        }
+      },
+      "9": {
+        "_dirName": "9",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "back"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "9"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 763
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": -201
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 4
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 9
+        }
+      },
+      "10": {
+        "_dirName": "10",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "ani"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "0"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -205
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 292
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 17
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 10
+        }
+      },
+      "11": {
+        "_dirName": "11",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "ani"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "1"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 258
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 383
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 13
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 11
+        }
+      },
+      "12": {
+        "_dirName": "12",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "ani"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 758
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 405
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 14
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 12
+        }
+      },
+      "13": {
+        "_dirName": "13",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "ani"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "3"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1256
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 285
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 16
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 13
+        }
+      }
+    }
+  },
+  "4": {
+    "_dirName": "4",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "foot"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "0"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": -193
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 623
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 0
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "foot"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "1"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 346
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 623
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 1
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 1
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "foot"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "2"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 886
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 623
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 2
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 2
+        }
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "sub",
+        "oS": {
+          "_dirName": "oS",
+          "_dirType": "string",
+          "_value": "rootabyss"
+        },
+        "l0": {
+          "_dirName": "l0",
+          "_dirType": "string",
+          "_value": "pierre"
+        },
+        "l1": {
+          "_dirName": "l1",
+          "_dirType": "string",
+          "_value": "foot"
+        },
+        "l2": {
+          "_dirName": "l2",
+          "_dirType": "string",
+          "_value": "3"
+        },
+        "x": {
+          "_dirName": "x",
+          "_dirType": "int",
+          "_value": 1345
+        },
+        "y": {
+          "_dirName": "y",
+          "_dirType": "int",
+          "_value": 623
+        },
+        "z": {
+          "_dirName": "z",
+          "_dirType": "int",
+          "_value": 9
+        },
+        "f": {
+          "_dirName": "f",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "zM": {
+          "_dirName": "zM",
+          "_dirType": "int",
+          "_value": 2
+        },
+        "r": {
+          "_dirName": "r",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "move": {
+          "_dirName": "move",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "dynamic": {
+          "_dirName": "dynamic",
+          "_dirType": "int",
+          "_value": 0
+        },
+        "piece": {
+          "_dirName": "piece",
+          "_dirType": "int",
+          "_value": 3
+        }
+      }
+    }
+  },
+  "5": {
+    "_dirName": "5",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "6": {
+    "_dirName": "6",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "7": {
+    "_dirName": "7",
+    "_dirType": "sub",
+    "info": {
+      "_dirName": "info",
+      "_dirType": "sub"
+    },
+    "tile": {
+      "_dirName": "tile",
+      "_dirType": "sub"
+    },
+    "obj": {
+      "_dirName": "obj",
+      "_dirType": "sub"
+    }
+  },
+  "back": {
+    "_dirName": "back",
+    "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 34
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -90
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -377
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "1": {
+      "_dirName": "1",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 35
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 9
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -140
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -10
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -5
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "2": {
+      "_dirName": "2",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 36
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 9
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 110
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -10
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -5
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "3": {
+      "_dirName": "3",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 38
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -2061
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -254
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -10
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -5
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 800
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "4": {
+      "_dirName": "4",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 37
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 22
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -298
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -10
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -5
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1500
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "5": {
+      "_dirName": "5",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 8
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -52
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -286
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -10
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -5
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 500
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 500
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "6": {
+      "_dirName": "6",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 9
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -197
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -38
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -10
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -5
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 350
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 350
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "7": {
+      "_dirName": "7",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 33
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -117
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -140
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "8": {
+      "_dirName": "8",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 32
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -514
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -108
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    },
+    "9": {
+      "_dirName": "9",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "rootabyss"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 10
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -32
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -482
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": -10
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -5
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      }
+    }
+  },
+  "foothold": {
+    "_dirName": "foothold",
+    "_dirType": "sub",
+    "4": {
+      "_dirName": "4",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "sub",
+        "1": {
+          "_dirName": "1",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": -462
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 551
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 77
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 551
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 0
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 2
+          },
+          "piece": {
+            "_dirName": "piece",
+            "_dirType": "int",
+            "_value": 0
+          }
+        }
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "sub",
+        "2": {
+          "_dirName": "2",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": 77
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 551
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 616
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 551
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 1
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 3
+          },
+          "piece": {
+            "_dirName": "piece",
+            "_dirType": "int",
+            "_value": 1
+          }
+        }
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "sub",
+        "3": {
+          "_dirName": "3",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": 616
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 551
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 1156
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 551
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 2
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 4
+          },
+          "piece": {
+            "_dirName": "piece",
+            "_dirType": "int",
+            "_value": 2
+          }
+        },
+        "4": {
+          "_dirName": "4",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": 1156
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 551
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 1536
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 551
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 3
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 0
+          },
+          "piece": {
+            "_dirName": "piece",
+            "_dirType": "int",
+            "_value": 3
+          }
+        }
+      },
+      "10": {
+        "_dirName": "10",
+        "_dirType": "sub",
+        "5": {
+          "_dirName": "5",
+          "_dirType": "sub",
+          "x1": {
+            "_dirName": "x1",
+            "_dirType": "int",
+            "_value": 143
+          },
+          "y1": {
+            "_dirName": "y1",
+            "_dirType": "int",
+            "_value": 287
+          },
+          "x2": {
+            "_dirName": "x2",
+            "_dirType": "int",
+            "_value": 210
+          },
+          "y2": {
+            "_dirName": "y2",
+            "_dirType": "int",
+            "_value": 290
+          },
+          "prev": {
+            "_dirName": "prev",
+            "_dirType": "int",
+            "_value": 0
+          },
+          "next": {
+            "_dirName": "next",
+            "_dirType": "int",
+            "_value": 0
+          }
+        }
+      }
+    }
+  },
+  "info": {
+    "_dirName": "info",
+    "_dirType": "sub",
+    "bgm": {
+      "_dirName": "bgm",
+      "_dirType": "string",
+      "_value": "Bgm29/JoyfulTeaParty"
+    },
+    "VRTop": {
+      "_dirName": "VRTop",
+      "_dirType": "int",
+      "_value": 191
+    },
+    "VRLeft": {
+      "_dirName": "VRLeft",
+      "_dirType": "int",
+      "_value": -452
+    },
+    "VRBottom": {
+      "_dirName": "VRBottom",
+      "_dirType": "int",
+      "_value": 570
+    },
+    "VRRight": {
+      "_dirName": "VRRight",
+      "_dirType": "int",
+      "_value": 1526
+    },
+    "cloud": {
+      "_dirName": "cloud",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "fieldLimit": {
+      "_dirName": "fieldLimit",
+      "_dirType": "int",
+      "_value": 277111548
+    },
+    "fieldType": {
+      "_dirName": "fieldType",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "forcedReturn": {
+      "_dirName": "forcedReturn",
+      "_dirType": "int",
+      "_value": 682000721
+    },
+    "mapMark": {
+      "_dirName": "mapMark",
+      "_dirType": "string",
+      "_value": "Event"
+    },
+    "mobRate": {
+      "_dirName": "mobRate",
+      "_dirType": "float",
+      "_value": "1.0"
+    },
+    "onFirstUserEnter": {
+      "_dirName": "onFirstUserEnter",
+      "_dirType": "string",
+      "_value": ""
+    },
+    "onUserEnter": {
+      "_dirName": "onUserEnter",
+      "_dirType": "string",
+      "_value": ""
+    },
+    "returnMap": {
+      "_dirName": "returnMap",
+      "_dirType": "int",
+      "_value": 682000721
+    },
+    "reviveCurField": {
+      "_dirName": "reviveCurField",
+      "_dirType": "int",
+      "_value": 1
+    },
+    "swim": {
+      "_dirName": "swim",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "teamPortal": {
+      "_dirName": "teamPortal",
+      "_dirType": "int",
+      "_value": 1
+    },
+    "town": {
+      "_dirName": "town",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "version": {
+      "_dirName": "version",
+      "_dirType": "int",
+      "_value": 10
+    }
+  },
+  "ladderRope": {
+    "_dirName": "ladderRope",
+    "_dirType": "sub"
+  },
+  "life": {
+    "_dirName": "life",
+    "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "type": {
+        "_dirName": "type",
+        "_dirType": "string",
+        "_value": "n"
+      },
+      "id": {
+        "_dirName": "id",
+        "_dirType": "string",
+        "_value": "9201142"
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 158
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 287
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "hide": {
+        "_dirName": "hide",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "fh": {
+        "_dirName": "fh",
+        "_dirType": "int",
+        "_value": 5
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 287
+      },
+      "rx0": {
+        "_dirName": "rx0",
+        "_dirType": "int",
+        "_value": 108
+      },
+      "rx1": {
+        "_dirName": "rx1",
+        "_dirType": "int",
+        "_value": 208
+      }
+    },
+    "1": {
+      "_dirName": "1",
+      "_dirType": "sub",
+      "type": {
+        "_dirName": "type",
+        "_dirType": "string",
+        "_value": "m"
+      },
+      "id": {
+        "_dirName": "id",
+        "_dirType": "string",
+        "_value": "8900000"
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 474
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 551
+      },
+      "mobTime": {
+        "_dirName": "mobTime",
+        "_dirType": "int",
+        "_value": -1
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "hide": {
+        "_dirName": "hide",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "fh": {
+        "_dirName": "fh",
+        "_dirType": "int",
+        "_value": 2
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 551
+      },
+      "rx0": {
+        "_dirName": "rx0",
+        "_dirType": "int",
+        "_value": 424
+      },
+      "rx1": {
+        "_dirName": "rx1",
+        "_dirType": "int",
+        "_value": 524
+      }
+    }
+  },
+  "miniMap": {
+    "_dirName": "miniMap",
+    "_dirType": "sub",
+    "canvas": {
+      "_dirName": "canvas",
+      "_dirType": "canvas",
+      "_width": 125,
+      "_height": 69,
+      "_hash": {
+        "_dirName": "_hash",
+        "_dirType": "string",
+        "_value": "8a341e0492d7174129747954febfc7351d9f3c1ff7e00ca370dbe483aea8fef8"
+      }
+    },
+    "width": {
+      "_dirName": "width",
+      "_dirType": "int",
+      "_value": 2000
+    },
+    "height": {
+      "_dirName": "height",
+      "_dirType": "int",
+      "_value": 1118
+    },
+    "centerX": {
+      "_dirName": "centerX",
+      "_dirType": "int",
+      "_value": 462
+    },
+    "centerY": {
+      "_dirName": "centerY",
+      "_dirType": "int",
+      "_value": 416
+    },
+    "mag": {
+      "_dirName": "mag",
+      "_dirType": "int",
+      "_value": 4
+    }
+  },
+  "portal": {
+    "_dirName": "portal",
+    "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "pn": {
+        "_dirName": "pn",
+        "_dirType": "string",
+        "_value": "sp"
+      },
+      "pt": {
+        "_dirName": "pt",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 497
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 487
+      },
+      "tm": {
+        "_dirName": "tm",
+        "_dirType": "int",
+        "_value": 999999999
+      },
+      "tn": {
+        "_dirName": "tn",
+        "_dirType": "string",
+        "_value": ""
+      },
+      "horizontalImpact": {
+        "_dirName": "horizontalImpact",
+        "_dirType": "int",
+        "_value": 0
+      }
+    }
+  },
+  "reactor": {
+    "_dirName": "reactor",
+    "_dirType": "sub"
+  },
+  "noSkill": {
+    "_dirName": "noSkill",
+    "_dirType": "sub",
+    "class": {
+      "_dirName": "class",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "int",
+        "_value": 4
+      }
+    },
+    "skill": {
+      "_dirName": "skill",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "int",
+        "_value": 1000000
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "int",
+        "_value": 1000001
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "int",
+        "_value": 1000002
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "int",
+        "_value": 1001003
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "int",
+        "_value": 1001004
+      },
+      "5": {
+        "_dirName": "5",
+        "_dirType": "int",
+        "_value": 1001005
+      },
+      "6": {
+        "_dirName": "6",
+        "_dirType": "int",
+        "_value": 2000000
+      },
+      "7": {
+        "_dirName": "7",
+        "_dirType": "int",
+        "_value": 2000001
+      },
+      "8": {
+        "_dirName": "8",
+        "_dirType": "int",
+        "_value": 2001003
+      },
+      "9": {
+        "_dirName": "9",
+        "_dirType": "int",
+        "_value": 2001005
+      },
+      "10": {
+        "_dirName": "10",
+        "_dirType": "int",
+        "_value": 3000000
+      },
+      "11": {
+        "_dirName": "11",
+        "_dirType": "int",
+        "_value": 3000001
+      },
+      "12": {
+        "_dirName": "12",
+        "_dirType": "int",
+        "_value": 3000002
+      },
+      "13": {
+        "_dirName": "13",
+        "_dirType": "int",
+        "_value": 3001003
+      },
+      "14": {
+        "_dirName": "14",
+        "_dirType": "int",
+        "_value": 3001004
+      },
+      "15": {
+        "_dirName": "15",
+        "_dirType": "int",
+        "_value": 3001005
+      },
+      "16": {
+        "_dirName": "16",
+        "_dirType": "int",
+        "_value": 4000000
+      },
+      "17": {
+        "_dirName": "17",
+        "_dirType": "int",
+        "_value": 4000001
+      },
+      "18": {
+        "_dirName": "18",
+        "_dirType": "int",
+        "_value": 4001002
+      },
+      "19": {
+        "_dirName": "19",
+        "_dirType": "int",
+        "_value": 4001003
+      },
+      "20": {
+        "_dirName": "20",
+        "_dirType": "int",
+        "_value": 4001334
+      },
+      "21": {
+        "_dirName": "21",
+        "_dirType": "int",
+        "_value": 4001344
+      },
+      "22": {
+        "_dirName": "22",
+        "_dirType": "int",
+        "_value": 1100000
+      },
+      "23": {
+        "_dirName": "23",
+        "_dirType": "int",
+        "_value": 1100001
+      },
+      "24": {
+        "_dirName": "24",
+        "_dirType": "int",
+        "_value": 1101002
+      },
+      "25": {
+        "_dirName": "25",
+        "_dirType": "int",
+        "_value": 1101003
+      },
+      "26": {
+        "_dirName": "26",
+        "_dirType": "int",
+        "_value": 1101004
+      },
+      "27": {
+        "_dirName": "27",
+        "_dirType": "int",
+        "_value": 1101005
+      },
+      "28": {
+        "_dirName": "28",
+        "_dirType": "int",
+        "_value": 1101006
+      },
+      "29": {
+        "_dirName": "29",
+        "_dirType": "int",
+        "_value": 1101007
+      },
+      "30": {
+        "_dirName": "30",
+        "_dirType": "int",
+        "_value": 1200000
+      },
+      "31": {
+        "_dirName": "31",
+        "_dirType": "int",
+        "_value": 1200001
+      },
+      "32": {
+        "_dirName": "32",
+        "_dirType": "int",
+        "_value": 1201002
+      },
+      "33": {
+        "_dirName": "33",
+        "_dirType": "int",
+        "_value": 1201003
+      },
+      "34": {
+        "_dirName": "34",
+        "_dirType": "int",
+        "_value": 1201004
+      },
+      "35": {
+        "_dirName": "35",
+        "_dirType": "int",
+        "_value": 1201005
+      },
+      "36": {
+        "_dirName": "36",
+        "_dirType": "int",
+        "_value": 1201006
+      },
+      "37": {
+        "_dirName": "37",
+        "_dirType": "int",
+        "_value": 1201007
+      },
+      "38": {
+        "_dirName": "38",
+        "_dirType": "int",
+        "_value": 1300000
+      },
+      "39": {
+        "_dirName": "39",
+        "_dirType": "int",
+        "_value": 1300001
+      },
+      "40": {
+        "_dirName": "40",
+        "_dirType": "int",
+        "_value": 1301002
+      },
+      "41": {
+        "_dirName": "41",
+        "_dirType": "int",
+        "_value": 1301003
+      },
+      "42": {
+        "_dirName": "42",
+        "_dirType": "int",
+        "_value": 1301004
+      },
+      "43": {
+        "_dirName": "43",
+        "_dirType": "int",
+        "_value": 1301005
+      },
+      "44": {
+        "_dirName": "44",
+        "_dirType": "int",
+        "_value": 1301006
+      },
+      "45": {
+        "_dirName": "45",
+        "_dirType": "int",
+        "_value": 1301007
+      },
+      "46": {
+        "_dirName": "46",
+        "_dirType": "int",
+        "_value": 2100000
+      },
+      "47": {
+        "_dirName": "47",
+        "_dirType": "int",
+        "_value": 2101001
+      },
+      "48": {
+        "_dirName": "48",
+        "_dirType": "int",
+        "_value": 2101002
+      },
+      "49": {
+        "_dirName": "49",
+        "_dirType": "int",
+        "_value": 2101003
+      },
+      "50": {
+        "_dirName": "50",
+        "_dirType": "int",
+        "_value": 2101005
+      },
+      "51": {
+        "_dirName": "51",
+        "_dirType": "int",
+        "_value": 2200000
+      },
+      "52": {
+        "_dirName": "52",
+        "_dirType": "int",
+        "_value": 2201001
+      },
+      "53": {
+        "_dirName": "53",
+        "_dirType": "int",
+        "_value": 2201002
+      },
+      "54": {
+        "_dirName": "54",
+        "_dirType": "int",
+        "_value": 2201003
+      },
+      "55": {
+        "_dirName": "55",
+        "_dirType": "int",
+        "_value": 2201004
+      },
+      "56": {
+        "_dirName": "56",
+        "_dirType": "int",
+        "_value": 2300000
+      },
+      "57": {
+        "_dirName": "57",
+        "_dirType": "int",
+        "_value": 2301001
+      },
+      "58": {
+        "_dirName": "58",
+        "_dirType": "int",
+        "_value": 2301002
+      },
+      "59": {
+        "_dirName": "59",
+        "_dirType": "int",
+        "_value": 2301003
+      },
+      "60": {
+        "_dirName": "60",
+        "_dirType": "int",
+        "_value": 2301004
+      },
+      "61": {
+        "_dirName": "61",
+        "_dirType": "int",
+        "_value": 3100000
+      },
+      "62": {
+        "_dirName": "62",
+        "_dirType": "int",
+        "_value": 3101001
+      },
+      "63": {
+        "_dirName": "63",
+        "_dirType": "int",
+        "_value": 3101002
+      },
+      "64": {
+        "_dirName": "64",
+        "_dirType": "int",
+        "_value": 3101003
+      },
+      "65": {
+        "_dirName": "65",
+        "_dirType": "int",
+        "_value": 3101004
+      },
+      "66": {
+        "_dirName": "66",
+        "_dirType": "int",
+        "_value": 3101005
+      },
+      "67": {
+        "_dirName": "67",
+        "_dirType": "int",
+        "_value": 3200000
+      },
+      "68": {
+        "_dirName": "68",
+        "_dirType": "int",
+        "_value": 3201001
+      },
+      "69": {
+        "_dirName": "69",
+        "_dirType": "int",
+        "_value": 3201002
+      },
+      "70": {
+        "_dirName": "70",
+        "_dirType": "int",
+        "_value": 3201003
+      },
+      "71": {
+        "_dirName": "71",
+        "_dirType": "int",
+        "_value": 3201004
+      },
+      "72": {
+        "_dirName": "72",
+        "_dirType": "int",
+        "_value": 3201005
+      },
+      "73": {
+        "_dirName": "73",
+        "_dirType": "int",
+        "_value": 4100000
+      },
+      "74": {
+        "_dirName": "74",
+        "_dirType": "int",
+        "_value": 4100001
+      },
+      "75": {
+        "_dirName": "75",
+        "_dirType": "int",
+        "_value": 4100002
+      },
+      "76": {
+        "_dirName": "76",
+        "_dirType": "int",
+        "_value": 4101003
+      },
+      "77": {
+        "_dirName": "77",
+        "_dirType": "int",
+        "_value": 4101004
+      },
+      "78": {
+        "_dirName": "78",
+        "_dirType": "int",
+        "_value": 4101005
+      },
+      "79": {
+        "_dirName": "79",
+        "_dirType": "int",
+        "_value": 4200000
+      },
+      "80": {
+        "_dirName": "80",
+        "_dirType": "int",
+        "_value": 4200001
+      },
+      "81": {
+        "_dirName": "81",
+        "_dirType": "int",
+        "_value": 4201002
+      },
+      "82": {
+        "_dirName": "82",
+        "_dirType": "int",
+        "_value": 4201003
+      },
+      "83": {
+        "_dirName": "83",
+        "_dirType": "int",
+        "_value": 4201004
+      },
+      "84": {
+        "_dirName": "84",
+        "_dirType": "int",
+        "_value": 4201005
+      },
+      "85": {
+        "_dirName": "85",
+        "_dirType": "int",
+        "_value": 5000000
+      },
+      "86": {
+        "_dirName": "86",
+        "_dirType": "int",
+        "_value": 5001001
+      },
+      "87": {
+        "_dirName": "87",
+        "_dirType": "int",
+        "_value": 5001002
+      },
+      "88": {
+        "_dirName": "88",
+        "_dirType": "int",
+        "_value": 5001003
+      },
+      "89": {
+        "_dirName": "89",
+        "_dirType": "int",
+        "_value": 5001005
+      },
+      "90": {
+        "_dirName": "90",
+        "_dirType": "int",
+        "_value": 5100000
+      },
+      "91": {
+        "_dirName": "91",
+        "_dirType": "int",
+        "_value": 5100001
+      },
+      "92": {
+        "_dirName": "92",
+        "_dirType": "int",
+        "_value": 5101002
+      },
+      "93": {
+        "_dirName": "93",
+        "_dirType": "int",
+        "_value": 5101003
+      },
+      "94": {
+        "_dirName": "94",
+        "_dirType": "int",
+        "_value": 5101004
+      },
+      "95": {
+        "_dirName": "95",
+        "_dirType": "int",
+        "_value": 5101005
+      },
+      "96": {
+        "_dirName": "96",
+        "_dirType": "int",
+        "_value": 5101006
+      },
+      "97": {
+        "_dirName": "97",
+        "_dirType": "int",
+        "_value": 5101007
+      },
+      "98": {
+        "_dirName": "98",
+        "_dirType": "int",
+        "_value": 5200000
+      },
+      "99": {
+        "_dirName": "99",
+        "_dirType": "int",
+        "_value": 5201001
+      },
+      "100": {
+        "_dirName": "100",
+        "_dirType": "int",
+        "_value": 5201002
+      },
+      "101": {
+        "_dirName": "101",
+        "_dirType": "int",
+        "_value": 5201003
+      },
+      "102": {
+        "_dirName": "102",
+        "_dirType": "int",
+        "_value": 5201004
+      },
+      "103": {
+        "_dirName": "103",
+        "_dirType": "int",
+        "_value": 5201005
+      },
+      "104": {
+        "_dirName": "104",
+        "_dirType": "int",
+        "_value": 5201006
+      }
+    }
+  }
+}

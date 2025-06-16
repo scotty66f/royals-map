@@ -1,0 +1,170 @@
+{
+  "info": {
+    "_dirName": "info",
+    "_dirType": "sub",
+    "version": {
+      "_dirName": "version",
+      "_dirType": "int",
+      "_value": 10
+    },
+    "cloud": {
+      "_dirName": "cloud",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "town": {
+      "_dirName": "town",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "swim": {
+      "_dirName": "swim",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "returnMap": {
+      "_dirName": "returnMap",
+      "_dirType": "int",
+      "_value": 910040001
+    },
+    "forcedReturn": {
+      "_dirName": "forcedReturn",
+      "_dirType": "int",
+      "_value": 910040001
+    },
+    "mobRate": {
+      "_dirName": "mobRate",
+      "_dirType": "float",
+      "_value": "1.0"
+    },
+    "bgm": {
+      "_dirName": "bgm",
+      "_dirType": "string",
+      "_value": "Bgm18/WolfAndSheep"
+    },
+    "mapMark": {
+      "_dirName": "mapMark",
+      "_dirType": "string",
+      "_value": "Event"
+    },
+    "fly": {
+      "_dirName": "fly",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "noMapCmd": {
+      "_dirName": "noMapCmd",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "hideMinimap": {
+      "_dirName": "hideMinimap",
+      "_dirType": "int",
+      "_value": 0
+    },
+    "fieldLimit": {
+      "_dirName": "fieldLimit",
+      "_dirType": "int",
+      "_value": 337660
+    },
+    "onFirstUserEnter": {
+      "_dirName": "onFirstUserEnter",
+      "_dirType": "string",
+      "_value": ""
+    },
+    "onUserEnter": {
+      "_dirName": "onUserEnter",
+      "_dirType": "string",
+      "_value": ""
+    },
+    "VRTop": {
+      "_dirName": "VRTop",
+      "_dirType": "int",
+      "_value": -1230
+    },
+    "VRLeft": {
+      "_dirName": "VRLeft",
+      "_dirType": "int",
+      "_value": -810
+    },
+    "VRBottom": {
+      "_dirName": "VRBottom",
+      "_dirType": "int",
+      "_value": 302
+    },
+    "VRRight": {
+      "_dirName": "VRRight",
+      "_dirType": "int",
+      "_value": 1080
+    },
+    "fieldType": {
+      "_dirName": "fieldType",
+      "_dirType": "int",
+      "_value": 19
+    },
+    "allowedItem": {
+      "_dirName": "allowedItem",
+      "_dirType": "sub",
+      "0": {
+        "_dirName": "0",
+        "_dirType": "int",
+        "_value": 2022539
+      },
+      "1": {
+        "_dirName": "1",
+        "_dirType": "int",
+        "_value": 2022540
+      },
+      "2": {
+        "_dirName": "2",
+        "_dirType": "int",
+        "_value": 2022541
+      },
+      "3": {
+        "_dirName": "3",
+        "_dirType": "int",
+        "_value": 2022542
+      },
+      "4": {
+        "_dirName": "4",
+        "_dirType": "int",
+        "_value": 2022543
+      },
+      "5": {
+        "_dirName": "5",
+        "_dirType": "int",
+        "_value": 2109004
+      },
+      "6": {
+        "_dirName": "6",
+        "_dirType": "int",
+        "_value": 2109005
+      },
+      "7": {
+        "_dirName": "7",
+        "_dirType": "int",
+        "_value": 2022547
+      },
+      "8": {
+        "_dirName": "8",
+        "_dirType": "int",
+        "_value": 2022548
+      },
+      "9": {
+        "_dirName": "9",
+        "_dirType": "int",
+        "_value": 2022549
+      }
+    },
+    "dropExpire": {
+      "_dirName": "dropExpire",
+      "_dirType": "int",
+      "_value": 10
+    },
+    "link": {
+      "_dirName": "link",
+      "_dirType": "string",
+      "_value": "109090300"
+    }
+  }
+}
